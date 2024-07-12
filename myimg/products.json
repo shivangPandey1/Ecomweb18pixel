@@ -1,0 +1,146 @@
+[
+    {
+        "id": 19,
+        "name": "Men White jacket Sol Zippered Full-Zip Slim Fit Bomber Jacket",
+        "category": "men",
+        "image": "./myimg/product_19.png",
+        "new_price": 85.0,
+        "old_price": 105.5,
+        "description": "Men Green Sol Zippered Full-Zip Slim Fit Bomber Jacket Men Green Sol Zippered Full-Zip Slim Fit Bomber Jacket"
+      },
+      {
+        "id": 20,
+        "name": "Men Navy blue Sol Zippered Full-Zip Slim Fit Bomber Jacket",
+        "category": "men",
+        "image": "./myimg/product_20.png",
+        "new_price": 75.0,
+        "old_price": 117.5,
+        "description": "Men Green Sol Zippered Full-Zip Slim Fit Bomber Jacket Men Green Sol Zippered Full-Zip Slim Fit Bomber Jacket"
+      },
+      {
+        "id": 21,
+        "name": "Men Orange Sol Zippered Full-Zip Slim Fit Bomber Jacket",
+        "category": "men",
+        "image": "./myimg/product_21.png",
+        "new_price": 55.0,
+        "old_price": 110.5,
+        "description": "Men Green Sol Zippered Full-Zip Slim Fit Bomber Jacket Men Green Sol Zippered Full-Zip Slim Fit Bomber Jacket"
+      },
+      {
+        "id": 22,
+        "name": "Men White Sol Zippered Full-Zip Slim Fit Bomber Jacket",
+        "category": "men",
+        "image": "./myimg/product_22.png",
+        "new_price": 65.0,
+        "old_price": 70.5,
+        "description": "Men Green Sol Zippered Full-Zip Slim Fit Bomber Jacket Men Green Sol Zippered Full-Zip Slim Fit Bomber Jacket"
+      },
+      {
+        "id": 23,
+        "name": "Men yellow-Green Sol Zippered Full-Zip Slim Fit Bomber Jacket",
+        "category": "men",
+        "image": "./myimg/product_23.png",
+        "new_price": 37.0,
+        "old_price": 60.5,
+        "description": "Men Green Sol Zippered Full-Zip Slim Fit Bomber Jacket Men Green Sol Zippered Full-Zip Slim Fit Bomber Jacket"
+      },
+      {
+        "id": 24,
+        "name": "Men leather- black Sol Zippered Full-Zip Slim Fit Bomber Jacket",
+        "category": "men",
+        "image": "./myimg/product_24.png",
+        "new_price": 42.0,
+        "old_price": 55.5,
+        "description": "Men Green Sol Zippered Full-Zip Slim Fit Bomber Jacket Men Green Sol Zippered Full-Zip Slim Fit Bomber Jacket"
+      },
+      {
+        "id": 25,
+        "name": "Boys Sky-blue jacket Colourblocked Hooded Sweatshirt",
+        "category": "boy",
+        "image": "./myimg/product_25.png",
+        "new_price": 44.0,
+        "old_price": 125.5,
+        "description": "Boys Orange Colourblocked Hooded Sweatshirt Boys Orange Colourblocked Hooded Sweatshirt"
+      },
+      {
+        "id": 26,
+        "name": "Boys black-black Colourblocked Hooded Sweatshirt",
+        "category": "boy",
+        "image": "./myimg/product_26.png",
+        "new_price": 95.0,
+        "old_price": 125.5,
+        "description": "Boys Orange Colourblocked Hooded Sweatshirt Boys Orange Colourblocked Hooded Sweatshirt"
+      },
+      {
+        "id": 27,
+        "name": "Boys w-y-b mix Colourblocked Hooded Sweatshirt",
+        "category": "boy",
+        "image": "./myimg/product_27.png",
+        "new_price": 49.0,
+        "old_price": 130.5,
+        "description": "Boys Orange Colourblocked Hooded Sweatshirt Boys Orange Colourblocked Hooded Sweatshirt"
+      },
+      {
+        "id": 28,
+        "name": "Boys light-green Colourblocked Hooded Sweatshirt",
+        "category": "boy",
+        "image": "./myimg/product_28.png",
+        "new_price": 88.0,
+        "old_price": 140.5,
+        "description": "Boys Orange Colourblocked Hooded Sweatshirt Boys Orange Colourblocked Hooded Sweatshirt"
+      },
+      {
+        "id": 29,
+        "name": "Boys blue-black Colourblocked Hooded Sweatshirt",
+        "category": "boy",
+        "image": "./myimg/product_29.png",
+        "new_price": 94.0,
+        "old_price": 130.5,
+        "description": "Boys Orange Colourblocked Hooded Sweatshirt Boys Orange Colourblocked Hooded Sweatshirt"
+      },
+      {
+        "id": 30,
+        "name": "Boys light-brown Colourblocked Hooded Sweatshirt",
+        "category": "boy",
+        "image": "./myimg/product_30.png",
+        "new_price": 22.0,
+        "old_price": 86.5,
+        "description": "Boys Orange Colourblocked Hooded Sweatshirt Boys Orange Colourblocked Hooded Sweatshirt"
+      },
+      {
+        "id": 31,
+        "name": "Boys denim-blue Colourblocked Hooded Sweatshirt",
+        "category": "boy",
+        "image": "./myimg/product_31.png",
+        "new_price": 26.0,
+        "old_price": 115.5,
+        "description": "Boys Orange Colourblocked Hooded Sweatshirt Boys Orange Colourblocked Hooded Sweatshirt"
+      },
+      {
+        "id": 32,
+        "name": "Boys dark-sky Colourblocked Hooded Sweatshirt",
+        "category": "boy",
+        "image": "./myimg/product_32.png",
+        "new_price": 66.0,
+        "old_price": 105.5,
+        "description": "Boys Orange Colourblocked Hooded Sweatshirt Boys Orange Colourblocked Hooded Sweatshirt"
+      },
+      {
+        "id": 33,
+        "name": "Boys dark-blue Colourblocked Hooded Sweatshirt",
+        "category": "boy",
+        "image": "./myimg/product_33.png",
+        "new_price": 93.0,
+        "old_price": 110.5,
+        "description": "Boys Orange Colourblocked Hooded Sweatshirt Boys Orange Colourblocked Hooded Sweatshirt"
+      },
+      {
+        "id": 34,
+        "name": "Boys dark-blue-black Colourblocked Hooded Sweatshirt",
+        "category": "boy",
+        "image": "./myimg/product_34.png",
+        "new_price": 99.0,
+        "old_price": 120.5,
+        "description": "Boys Orange Colourblocked Hooded Sweatshirt Boys Orange Colourblocked Hooded Sweatshirt"
+      }
+]
